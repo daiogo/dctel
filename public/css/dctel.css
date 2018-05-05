@@ -1,0 +1,15 @@
+#nav-logo {
+    height: 50px;
+    float: left;
+    border-radius: 5px;
+    margin-left: 15px;
+    margin-top: 2px;
+}
+
+.affix-top {
+    background-color : white;
+}
+
+.affix-top:hover .container:hover .navbar-collapse:hover ul:hover li:hover a:hover {
+    color: #EE3033;
+}
