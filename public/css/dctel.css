@@ -13,3 +13,22 @@
 .affix-top:hover .container:hover .navbar-collapse:hover ul:hover li:hover a:hover {
     color: #EE3033;
 }
+
+.text-muted-secondary {
+    color: white;
+}
+
+.section-heading, .service-heading, .name-heading, .portfolio-heading {
+    color: #1F5293;
+}
+
+section#partners img {
+    margin: 50px auto;
+}
+
+#landing-logo {
+    border-radius: 10px;
+    width: 40%;
+    margin-bottom: 25px;
+}
+
