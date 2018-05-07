@@ -32,3 +32,40 @@ section#partners img {
     margin-bottom: 25px;
 }
 
+.phone-number {
+    color: white;
+    font-weight: 700;
+    font-family: "Montserrat";
+    font-size: 32px;
+}
+
+.phones {
+    margin-bottom: 25px;
+}
+
+.phones-icon {
+    color: white;
+    font-size: 32px;
+    margin-right: 10px;
+}
+
+#or-line {
+    margin-bottom: 50px;
+}
+
+::placeholder {
+    color: #EE3033 !important;
+    opacity: 1; /* Firefox */
+}
+
+::-ms-input-placeholder { /* Internet Explorer 10-11 */
+   color: #EE3033 !important;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+   color: #EE3033 !important;
+}
+
+input, select, textarea {
+    color: #EE3033 !important;
+}
